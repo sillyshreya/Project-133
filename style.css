@@ -1,0 +1,26 @@
+#status,#status2,#label,#back
+{
+font-size : 18px;
+color : black;
+border-radius:10px ;
+text-align: center;
+border-color: chartreuse;
+border-width: 5px;
+border-style: double;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body {
+    background-size: cover;
+}
+canvas {
+    border-radius: 5px;
+    border-color: blueviolet;
+    border-width: 10px;
+    box-shadow: 5px 5px 5px burlywood;
+    border-style: groove;
+}
